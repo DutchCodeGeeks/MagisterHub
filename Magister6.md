@@ -1,4 +1,4 @@
-# Hier even een overzichtje wat Magister 6 betreft:
+# Overzicht Magister 6:
 
 **Voorbeeld live:** 
 
