@@ -1,6 +1,7 @@
 # Hier even een overzichtje wat Magister 6 betreft:
 
 **Voorbeeld live:** 
+
 https://martinus.magister.net/#/inloggen
 
 **API:**
@@ -61,6 +62,7 @@ Lijkt allemaal mooi aan te sluiten op MATA dus waarschijnlijk blijft onze code g
 ```
 - Snelkoppeling Iconen
 Respectievelijk Ios/Android 
+
 ![](https://martinus.magister.net/content/app/images/apple/apple-touch-icon-152x152.png)![](https://martinus.magister.net/content/app/images/android/drawable-xxhdpi/ic_launcher.png)
 
 **Door beetje te proberen in de JS-console kun je wat functies ontdekken in:**
@@ -68,4 +70,4 @@ Respectievelijk Ios/Android
 https://martinus.magister.net/bundles/scripts-account-min?v=vgp9QHo949qBHb0ozzf3JoawPlkLZvpHeFwhTVvGZ_k1
 ```
 
-# LANDELIJKE UITROL IS KLAAR VÓÓR VOLGEND SCHOOLJAAR!
+### LANDELIJKE UITROL IS KLAAR VÓÓR VOLGEND SCHOOLJAAR!
