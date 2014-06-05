@@ -1,4 +1,4 @@
-# Overzicht Magister 6:
+![Magister 6 Logo](https://martinus.magister.net/Content/app/images/startup-image2.png)
 
 **Voorbeeld live:** 
 
