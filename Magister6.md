@@ -6,10 +6,10 @@ https://martinus.magister.net/#/inloggen
 
 **API:**
 - Gebruikt de Schoolmaster ZEN api (zelfde als mata)
-[code]
+```
 https://martinus.magister.net/api/ (magister 6)
 https://mata-sgtongerlo.magister.net/api/ (mata - magister 5)
-[/code]
+```
 
 - Sessie (heb geen login v/h martinus dus dit is voorlopig het enige dat we hebben...)
 ```
