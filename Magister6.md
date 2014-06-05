@@ -1,3 +1,5 @@
+Algemeen
+===
 ![Magister 6 Logo](https://martinus.magister.net/Content/app/images/startup-image2.png)
 
 **Voorbeeld live:** 
@@ -71,3 +73,11 @@ https://martinus.magister.net/bundles/scripts-account-min?v=vgp9QHo949qBHb0ozzf3
 ```
 
 ### LANDELIJKE UITROL IS KLAAR VÓÓR VOLGEND SCHOOLJAAR!
+
+.NET
+===
+coming by [DutchCodeGeeks](https://github.com/DutchCodeGeeks)
+
+JavaScript
+===
+coming by [DutchCodeGeeks](https://github.com/DutchCodeGeeks)
