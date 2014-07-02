@@ -78,6 +78,6 @@ https://martinus.magister.net/bundles/scripts-account-min?v=vgp9QHo949qBHb0ozzf3
 ===
 coming by [DutchCodeGeeks](https://github.com/DutchCodeGeeks)
 
-JavaScript
+Meteor
 ===
 coming by [DutchCodeGeeks](https://github.com/DutchCodeGeeks)
