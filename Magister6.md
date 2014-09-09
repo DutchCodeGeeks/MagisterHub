@@ -72,12 +72,6 @@ Respectievelijk Ios/Android
 https://martinus.magister.net/bundles/scripts-account-min?v=vgp9QHo949qBHb0ozzf3JoawPlkLZvpHeFwhTVvGZ_k1
 ```
 
-### LANDELIJKE UITROL IS KLAAR VÓÓR VOLGEND SCHOOLJAAR!
-
-.NET
-===
-coming by [DutchCodeGeeks](https://github.com/DutchCodeGeeks)
-
 Meteor
 ===
-coming by [DutchCodeGeeks](https://github.com/DutchCodeGeeks)
+coming by [simplyGits](https://github.com/simplyGits)
