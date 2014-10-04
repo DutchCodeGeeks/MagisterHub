@@ -5,3 +5,7 @@ PHP
 .NET
 ===
 [GEPRO_OSIsharp](https://github.com/lieuwex/GEPRO_OSIsharp) by [lieuwex](https://github.com/lieuwex)
+
+JSON (PHP)
+===
+[Gepro-Osi-json](https://github.com/tkon99/Gepro-Osi-json) by [tkon99](https://github.com/tkon99)
