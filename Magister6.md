@@ -7,6 +7,6 @@ Respectievelijk Ios/Android
 
 ![](https://martinus.magister.net/content/app/images/apple/apple-touch-icon-152x152.png)![](https://martinus.magister.net/content/app/images/android/drawable-xxhdpi/ic_launcher.png)
 
-Meteor
+Browserside, Node.js and Meteor
 ===
-coming by [simplyGits](https://github.com/simplyGits)
+[Magister.js](http://simplygits.github.io/MagisterJS/) by [simplyGits](https://github.com/simplyGits)
