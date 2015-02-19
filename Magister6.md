@@ -10,3 +10,7 @@ Respectievelijk Ios/Android
 Browserside, Node.js and Meteor
 ===
 [Magister.js](http://simplygits.github.io/MagisterJS/) by [simplyGits](https://github.com/simplyGits)
+
+PHP
+===
+[Magister](https://github.com/Stanvk/Magister) by [Stanvk](https://github.com/Stanvk) and [Kickwood](https://github.com/kickwood)
