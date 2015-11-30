@@ -14,3 +14,7 @@ Browserside, Node.js and Meteor
 PHP
 ===
 [Magister](https://github.com/Stanvk/Magister) by [Stanvk](https://github.com/Stanvk) and [Kickwood](https://github.com/kickwood)
+
+Java and Android
+===
+[Mister](https://github.com/KeizerDev/Mister) by [KeizerDev](https://github.com/KeizerDev)
