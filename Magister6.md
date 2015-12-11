@@ -18,3 +18,7 @@ PHP
 Java
 ===
 [Magister.java](https://github.com/iLexiconn/Magister.java) by [iLexiconn](https://github.com/iLexiconn)
+
+Android
+===
+[Hipster](https://github.com/iLexiconn/Hipster) by [iLexiconn](https://github.com/iLexiconn)
