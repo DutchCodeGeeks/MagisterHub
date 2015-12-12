@@ -15,6 +15,6 @@ PHP
 ===
 [Magister](https://github.com/Stanvk/Magister) by [Stanvk](https://github.com/Stanvk) and [Kickwood](https://github.com/kickwood)
 
-Java
+Java and Android
 ===
 [Magister.java](https://github.com/iLexiconn/Magister.java) by [iLexiconn](https://github.com/iLexiconn)
