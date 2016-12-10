@@ -1,6 +1,6 @@
 PHP
 ===
-[API-gepro-osi](https://github.com/tkon99/API-gepro-osi) by [tkon99](https://github.com/tkon99)
+[gepro-osi-PHP](https://github.com/tkon99/gepro-osi-PHP) by [tkon99](https://github.com/tkon99)
 
 [api-for-magister-gepro-osi-roosters](https://github.com/stipmonster/api-for-magister-gepro-osi-roosters) by [stipmonster](https://github.com/stipmonster)
 
