@@ -1,6 +1,6 @@
 Web
 ===
-[simplyHomework](https://www.simplyhomework.nl) by [simplyApps](http://www.simplyapps.nl)
+[simplyHomework](https://github.com/simplyGits/simplyHomework) by [simplyApps](https://github.com/simplyGits)
 
 Android
 ===
