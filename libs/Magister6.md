@@ -1,4 +1,4 @@
-Browserside, Node.js and Meteor
+Node.js
 ===
 [Magister.js](http://simplygits.github.io/MagisterJS/) by [simplyGits](https://github.com/simplyGits)
 
