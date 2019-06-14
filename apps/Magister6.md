@@ -1,3 +1,5 @@
+[MagBot](https://github.com/mamorgen/magbot3) by [7Kasper & Sj3rd](https://github.com/mamorgen)
+
 Web
 ===
 [simplyHomework](https://github.com/simplyGits/simplyHomework) by [simplyApps](https://github.com/simplyGits)
@@ -5,6 +7,10 @@ Web
 Android
 ===
 [Hipster](https://github.com/iLexiconn/Hipster) by [iLexiconn](https://github.com/iLexiconn)
+
+iOS
+===
+[Magistat](https://magistat.nl) by [Jules](https://github.com/julespalles)
 
 CLI
 ===
